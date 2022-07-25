@@ -32,7 +32,7 @@
           <a href="#ateam">
             <img class="boardShort" style="z-index: 2;" :src="require(`../assets/imgs/shortHeader/team.png`)"><br>
           </a>
-          <img class="boardShort" style="z-index: 1;" :src="require(`../assets/imgs/shortHeader/connectWallet.png`)">
+            <img class="boardShort" style="z-index: 1;" :src="require(`../assets/imgs/shortHeader/connectWallet.png`)">
         </div>
     </div>
   </div>
